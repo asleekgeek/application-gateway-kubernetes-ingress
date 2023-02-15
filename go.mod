@@ -16,7 +16,7 @@ require (
 	github.com/onsi/ginkgo v1.16.4
 	github.com/onsi/ginkgo/v2 v2.7.0
 	github.com/onsi/gomega v1.24.1
-	github.com/prometheus/client_golang v1.7.1
+	github.com/prometheus/client_golang v1.11.1
 	github.com/spf13/pflag v1.0.5
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.20.0-beta.1
